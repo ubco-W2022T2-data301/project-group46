@@ -1,10 +1,12 @@
-# Group YY - {Short snappy Title of your project}
-
-- Your title can change over time.
+# Group 46 - All HANDs on Deck
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project).
+**Milestone 1**
+1. Form a Team
+2. Choose a topic and a dataset, and get it approved
+3. Accept Project repository and understand the structure
+4. Create a Project vision statement
 
 ## Describe your topic/interest in about 150-200 words
 
