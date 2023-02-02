@@ -18,9 +18,9 @@
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 1: Anitej Isaac Sharma (Second-Year Computer Science)
+- Person 2: Ethan Hsu (Third-Year computer Science)
+- Person 3: Alex Henczel (Third-Year Physics)
 
 ## Images
 
