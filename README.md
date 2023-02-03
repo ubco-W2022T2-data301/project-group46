@@ -1,4 +1,4 @@
-# Group 46 - All HANDs on Deck
+# Group 46 - All *HAND*s on Deck
 
 ## Milestones
 
@@ -30,7 +30,8 @@
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The datasets "Netflix Shows", "Amazon Prime Movies and TV Shows", "Disney Movies and TV Shows", and "Hulu Movies and TV Shows" all provide valuable insights into the movie and TV content available on the respective streaming platforms. The datasets contain detailed information such as the show ID, show type, title, director, cast, country, date added, release year, rating, duration, genre, and description. All four datasets were collected in September 2021, giving a snapshot of the content available on each platform at that time. By combining the datasets, one can get a comprehensive overview of the movies and TV shows offered by the top streaming platforms in one place. This information can be useful to compare the offerings of each platform. It can also be used to analyze trends in movie and TV show distribution across different platforms/countries, over time.
+
 
 ## Team Members
 
