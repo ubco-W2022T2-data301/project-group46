@@ -1,4 +1,4 @@
-# Group 46 - All *HAND*s on Deck
+# Group 46 - Streaming Symphony (HAND-picked)
 
 ## Milestones
 
