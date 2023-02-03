@@ -6,7 +6,7 @@ Our project aims to extract valuable insights from the Kaggle data collection on
 
 - Analyze the distribution of shows across different countries and determine which countries are most active in the streaming industry.
 
-- Derive relationship between streaming services and genre popularity, as well as the popularity of each service in different countries to gain a clear understanding of which streaming services are most used for specific genres and in which countries.
+- Derive a relationship between streaming services and genre popularity, as well as the popularity of each service in different countries to gain a clear understanding of which streaming services are most used for specific genres and in which countries.
 
 Our ultimate goal is to deliver data-driven recommendations that support informed decision-making and drive innovation and growth in the entertainment industry.
 
