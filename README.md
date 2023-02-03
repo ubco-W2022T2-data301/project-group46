@@ -30,8 +30,7 @@
 
 ## Describe your dataset in about 150-200 words
 
-The datasets "Netflix Shows", "Amazon Prime Movies and TV Shows", "Disney Movies and TV Shows", and "Hulu Movies and TV Shows" all provide valuable insights into the movie and TV content available on the respective streaming platforms. The datasets contain detailed information such as the show ID, show type, title, director, cast, country, date added, release year, rating, duration, genre, and description. All four datasets were collected in September 2021, giving a snapshot of the content available on each platform at that time. By combining the datasets, one can get a comprehensive overview of the movies and TV shows offered by the top streaming platforms in one place. This information can be useful to compare the offerings of each platform. It can also be used to analyze trends in movie and TV show distribution across different platforms/countries, over time.
-
+The "Streaming Symphony" created from these four data sets (Hulu, Amazon Prime, Netflix, and Disney Plus) provides valuable insights into the movie and TV content on the top streaming platforms. The data sets include show ID, type, title, director, cast, country, date added, release year, rating, duration, genre, and description. Combining the data sets offers a comprehensive overview of the movies and TV shows offered by the top streaming platforms, making it easier to compare the offerings. The data collected in September 2021 provides a snapshot of the content available on each platform at that time. The data can also be used to analyze trends, over a period of time, in movie and TV show genres across platforms and countries, attached with details about the directors and the cast. With such a wealth of data available, it's clear why the "Streaming Symphony" is such a valuable resource for Data Analysis and Visualization of the world of streaming content.
 
 ## Team Members
 
