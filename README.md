@@ -1,30 +1,5 @@
 # Group 46 - Streaming Symphony (HAND-picked)
 
-## Milestones
-
-**Milestone 1**
-
-1. Form a Team
-   - Team of 3
-   - Considerations: interest in the topic, diversity in knowledge, experience, and skills, availability, and goals for the project
-   - Join a group on Canvas
-2. Choose a topic and a dataset, and get it approved
-   - Topic must be interesting to work with
-   - Have the data set approved by the instructor or the Project TAs
-   - Data set requirements: look for a creative commons license or public domain, no more than 5-10% missing values, and has over 5000 observations with 5 at least 5 variables of potential interest
-3. Accept Project repository and understand the structure
-   - Accept the repository
-   - Install *pre-commit*
-   - Understand the repository organization
-4. Create a Project vision statement
-   - purpose: to guide, motivate, and inspire the people working on the project
-   - Make it concise and easy to understand
-   - Define the end goal and additional criteria
-   - Aim to reach certain results in a certain time frame
-   - Make it inspirational and challenging
-   - Don't be too specific
-   - Write about who you are as a team who you wish to become
-
 ## Topic/Interest Description
 
 This dataset is of particular interest to those exploring the streaming services industry and the offerings of the top providers. It could be used to compare the different services, uncover trends in the offerings, and to track changes over time. With this dataset, one could build a dashboard that allows users to easily compare the offerings of each streaming service and to discover new movies and shows. Additionally, this dataset could be used to explore the impact of changes in offerings over time. For example, one could look at how customer ratings or viewership of particular shows have changed after a title was removed or added to a streaming service.
