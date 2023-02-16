@@ -10,7 +10,7 @@ This dataset draws attention of those exploring the trending streaming services 
 - How many of the TV shows and movies are available in each country? How many of them are available across multiple countries and how many are only available in one?
 - In which month were the most TV shows added to each platform? What about movies?
 
-This information will be valuable for viewers, producers, and other stakeholders in the streaming industry, as they seek to make informed decisions about the type of content to watch, create and distribute.
+Such information will be valuable for viewers, producers, and other stakeholders in the streaming industry, as they seek to make informed decisions about the type of content to watch, create and distribute.
 
 ## Data Set Description
 
