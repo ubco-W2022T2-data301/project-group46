@@ -9,8 +9,9 @@ This dataset explores trending streaming services such as Hulu, Amazon Prime, Ne
 - Which directors have directed movies and TV shows that are available on all the four streaming platforms? Which directors appear only on one of the streaming platforms?
 - How many of the TV shows and movies are available in each country? How many of them are available across multiple countries and how many are only available in one?
 - In which month were the most TV shows added to each platform? What about movies?
+- ...
 
-Such information can be used to create a user-facing dashboard for viewers, producers, and other stakeholders in the streaming industry. It can help them make informed decisions about the content they watch, create and distribute.
+Drawing such connections can lead us to generate information that can be used to create a user-facing dashboard for viewers, producers, and other stakeholders in the streaming industry. It can help them make informed decisions about content to watch, create and distribute.
 
 ## Data Set Description
 
