@@ -2,13 +2,21 @@
 
 ## Topic/Interest Description
 
-This dataset is of particular interest to those exploring the streaming services industry and the offerings of the top providers. It could be used to compare the different services, uncover trends in the offerings, and to track changes over time. With this dataset, one could build a dashboard that allows users to easily compare the offerings of each streaming service and to discover new movies and shows. Additionally, this dataset could be used to explore the impact of changes in offerings over time. For example, one could look at how customer ratings or viewership of particular shows have changed after a title was removed or added to a streaming service. This dataset is full of information regarding featrue length, place of production and year released/added to webservice. This will allow us to track how the years have affect diversity amount film/show production and will allow us to compare the length of movies from year to year. 
+This dataset draws attention of those exploring the trending streaming services such as Hulu, Amazon Prime, Netflix, and Disney+. Out goal is to conduct a comprehensive analysis through visualization of the four datasets to answer questions about trends regarding the TV shows, movies, directors, cast, countries, genres, ratins, etc., like the ones listed below:
+
+- Which TV shows and movies are available on all the four streaming platforms? Which of them are unique to only one platform?
+- What is the ratio of movies to TV shows within the four platforms?
+- Which directors have directed movies and TV shows that are available on all the four streaming platforms? Which directors appear only on one of the streaming platforms?
+- How many of the TV shows and movies are available in each country? How many of them are available across multiple countries and how many are only available in one?
+- In which month were the most TV shows added to each platform? What about movies?
+
+This information will be valuable for viewers, producers, and other stakeholders in the streaming industry, as they seek to make informed decisions about the type of content to watch, create and distribute.
 
 ## Data Set Description
 
 The "Streaming Symphony" created from these four datasets (Hulu, Amazon Prime, Netflix, and Disney+) provides valuable insights into the movie and TV content on the top streaming platforms.
 
-##### The data sets includes:
+#### The data sets includes:
 - show ID
 - type
 - title
@@ -42,5 +50,3 @@ The data was collected in mid-2021. This means that the dataset provides a snaps
 - [Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 - [Disney+ Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 - [Hulu Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
-- [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
-- [TV shows on Netflix, Prime Video, Hulu and Disney+](https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney)
