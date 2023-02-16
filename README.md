@@ -30,7 +30,7 @@ The "Streaming Symphony" created from these four datasets (Hulu, Amazon Prime, N
 - genre
 - description
 
-Although there is no record of how the dataset was collected, the data was collected in mid-2021 and provided by Shivam Bansal on Kaggle, an online community platform for data scientists and machine learning enthusiasts. 
+Although there is no record of how the dataset was collected, the data was collected in mid-2021 and provided by Shivam Bansal on Kaggle, an online community platform for data scientists and machine learning enthusiasts.
 
 The dataset provides a snapshot of the content available on each platform up until mid-2021, which is why it's worth noting that the datasets may not be 100% comprehensive or accurate as per current trends. Regardless, the datasets can be used to analyze trends over a period of time in movie and TV show genres across platforms and countries, which can be useful for researchers studying the streaming industry. Information about the directors and cast members for each show or movie can be valuable for analyzing trends and patterns in the movie and TV industries. Combining the datasets offers a comprehensive overview of the movies and TV shows offered by the top streaming platforms, making it easier to compare the offerings.
 
@@ -48,7 +48,7 @@ The dataset provides a snapshot of the content available on each platform up unt
 
 ## References
 
-- [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- [Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
-- [Disney+ Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 - [Hulu Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
+- [Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+- [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- [Disney+ Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
