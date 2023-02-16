@@ -6,7 +6,8 @@ This dataset is of particular interest to those exploring the streaming services
 
 ## Data Set Description
 
-<div style="text-align: justify;">The "Streaming Symphony" created from these four datasets (Hulu, Amazon Prime, Netflix, and Disney+) provides valuable insights into the movie and TV content on the top streaming platforms. 
+<div style="text-align: justify;">The "Streaming Symphony" created from these four datasets (Hulu, Amazon Prime, Netflix, and Disney+) provides valuable insights into the movie and TV content on the top streaming platforms.</div>
+
 
 The data sets includes:
 - show ID
@@ -22,7 +23,7 @@ The data sets includes:
 - genre
 - description
 
-The data was collected in mid-2021. This means that the dataset provides a snapshot of the content available on each platform at that time, which is why it's worth noting that the datasets may not be 100% comprehensive or accurate as per current trends. Regardless, the datasets can be used to analyze trends over a period of time in movie and TV show genres across platforms and countries, which can be useful for researchers studying the streaming industry. Information about the directors and cast members for each show or movie can be valuable for analyzing trends and patterns in the movie and TV industries. Combining the datasets offers a comprehensive overview of the movies and TV shows offered by the top streaming platforms, making it easier to compare the offerings.</div>
+<div style="text-align: justify;">The data was collected in mid-2021. This means that the dataset provides a snapshot of the content available on each platform at that time, which is why it's worth noting that the datasets may not be 100% comprehensive or accurate as per current trends. Regardless, the datasets can be used to analyze trends over a period of time in movie and TV show genres across platforms and countries, which can be useful for researchers studying the streaming industry. Information about the directors and cast members for each show or movie can be valuable for analyzing trends and patterns in the movie and TV industries. Combining the datasets offers a comprehensive overview of the movies and TV shows offered by the top streaming platforms, making it easier to compare the offerings.</div>
 
 ## Team Members
 
