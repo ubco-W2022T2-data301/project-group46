@@ -2,7 +2,7 @@
 
 ## Topic/Interest Description
 
-This dataset is of particular interest to those exploring the streaming services industry and the offerings of the top providers. It could be used to compare the different services, uncover trends in the offerings, and to track changes over time. With this dataset, one could build a dashboard that allows users to easily compare the offerings of each streaming service and to discover new movies and shows. Additionally, this dataset could be used to explore the impact of changes in offerings over time. For example, one could look at how customer ratings or viewership of particular shows have changed after a title was removed or added to a streaming service.
+This dataset is of particular interest to those exploring the streaming services industry and the offerings of the top providers. It could be used to compare the different services, uncover trends in the offerings, and to track changes over time. With this dataset, one could build a dashboard that allows users to easily compare the offerings of each streaming service and to discover new movies and shows. Additionally, this dataset could be used to explore the impact of changes in offerings over time. For example, one could look at how customer ratings or viewership of particular shows have changed after a title was removed or added to a streaming service. This dataset is full of information regarding featrue length, place of production and year released/added to webservice. This will allow us to track how the years have affect diversity amount film/show production and will allow us to compare the length of movies from year to year. 
 
 ## Data Set Description
 
