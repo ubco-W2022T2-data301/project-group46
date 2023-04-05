@@ -43,9 +43,7 @@ The dataset provides a snapshot of available content on each platform up to mid-
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/dashboard_Anitej.png" width="100px">
+<img src ="images/dashboard_Anitej.png" width="700px">
 
 ## References
 
