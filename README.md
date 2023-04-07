@@ -43,7 +43,7 @@ The dataset provides a snapshot of available content on each platform up to mid-
 
 ## Images
 
-<img src ="images/dashboard_Anitej.png" width="800px">
+<img src ="images/dashboard_Anitej.png" width="900px">
 
 ## References
 
