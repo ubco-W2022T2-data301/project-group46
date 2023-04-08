@@ -18,6 +18,7 @@ Drawing such connections can lead us to generate information that can be used to
 The "Streaming Symphony" created from these datasets (Hulu, Amazon Prime, Netflix, and Disney+) provides insights into movie and TV content on streaming platforms. The datasets include:
 
 #### The data sets includes:
+
 - show ID
 - type
 - title
@@ -44,6 +45,10 @@ The dataset provides a snapshot of available content on each platform up to mid-
 ## Images
 
 <img src ="images/dashboard_Anitej.png" width="900px">
+
+Ethan's Dashboard
+
+<img src ="images/dashboard_Ethan.png" width="900px">
 
 ## References
 
