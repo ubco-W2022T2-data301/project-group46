@@ -13,7 +13,7 @@ def genres(df):
 
     return hulu_genre_distribution
 
-def genre_plot(df,str):
+def genre_plot(df,str,location):
     # visualize the distribution of genres on each platform
     plt.figure(figsize=(10,6))
     plt.plot(df.index, df.values, label='Hulu')
@@ -21,8 +21,10 @@ def genre_plot(df,str):
     plt.xlabel('Genres')
     plt.ylabel('Number of Titles')
     plt.xticks(rotation=315, ha='left')
-    # plt.legend()
+    plt.legend()
     plt.show()
+    plt.savefig(f'{location}/{str}_genre_distribution.png')
+    return plt
 
 def find_name_per_genre(df,str):
     # create a copy of the original dataframe
