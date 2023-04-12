@@ -3,28 +3,21 @@ import matplotlib.pyplot as plt
 
 def seperate_listed_in(df):
     df['listed_in'] = df['listed_in'].str.split(', ')
-    df = df.explode('listed_in')
+    df = (
+        df.explode('listed_in')
+    )
     return df
 
 def genres(df):
     df['listed_in'] = df['listed_in'].str.strip().str.lower()
-    hulu_genres = df.groupby('listed_in').size().reset_index(name='counts').sort_values(['counts'], ascending=False)
-    hulu_genre_distribution = hulu_genres.groupby('listed_in')['counts'].sum().sort_values(ascending=False)
+    hulu_genres = (
+        df.groupby('listed_in').size().reset_index(name='counts').sort_values(['counts'], ascending=False)
+    )
+    hulu_genre_distribution = (
+        hulu_genres.groupby('listed_in')['counts'].sum().sort_values(ascending=False)
+    )
 
     return hulu_genre_distribution
-
-def genre_plot(df,str,location):
-    # visualize the distribution of genres on each platform
-    plt.figure(figsize=(10,6))
-    plt.plot(df.index, df.values, label='Hulu')
-    plt.title(f'Distribution of Genres on {str}')
-    plt.xlabel('Genres')
-    plt.ylabel('Number of Titles')
-    plt.xticks(rotation=315, ha='left')
-    plt.legend()
-    plt.show()
-    plt.savefig(f'{location}/{str}_genre_distribution.png')
-    return plt
 
 def find_name_per_genre(df,str):
     # create a copy of the original dataframe
