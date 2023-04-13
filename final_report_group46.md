@@ -66,11 +66,11 @@ Also I am interested in what genre each director have participated in and which 
 Based on the images below, drama is a popular genre across all platforms except for Disney+, where family and animation are the most popular. The least popular genres differ across platforms, with travel being the least popular on Disney+, talkshow on Amazon Prime, and sketch comedy on Hulu.
 
 <p float="left">
-    <img src="images/Ethan/Hulu_genre_distribution.png" width="600px">
-    <img src="images/Ethan/Amazon_Prime_genre_distribution.png" width="600px">
+    <img src="images/Ethan/Hulu_genre_distribution.png" width="450px">
+    <img src="images/Ethan/Amazon_Prime_genre_distribution.png" width="450px">
 <p float="left">
-    <img src="images/Ethan/Netflix_genre_distribution.png" width="600px">
-    <img src="images/Ethan/Disney+_genre_distribution.png" width="600px">
+    <img src="images/Ethan/Netflix_genre_distribution.png" width="450px">
+    <img src="images/Ethan/Disney+_genre_distribution.png" width="450px">
 </p>
 
 ### **Question 2 & 3:**
@@ -80,13 +80,13 @@ Based on the images below, drama is a popular genre across all platforms except 
 Regarding the directors and actors who have participated in various genres, it appears that each director and actor has their preferred genre. This preference could be why they are more likely to show up in shows of specific genres. It is also interesting to note that there are few directors or actors who have participated in more than 20 shows, except on Amazon Prime. For instance, Mark Knight directed 109 shows in the "special interest" genre, which is the highest number for any director in a single genre across all platforms. Similarly, Gene Autry participated in 31 shows in the "western" genre, which is the highest number for any actor in a single genre across all platforms.
 
 <p float="left">
-    <img src="images/Ethan/Top_10_director_on_Amazon Prime.png" width="600px">
-    <img src="images/Ethan/Top_10_director_on_Disney+.png" width="600px">
-    <img src="images/Ethan/Top_10_director_on_Netflix.png" width="600px">
+    <img src="images/Ethan/Top_10_director_on_Amazon Prime.png" width="300px">
+    <img src="images/Ethan/Top_10_director_on_Disney+.png" width="300px">
+    <img src="images/Ethan/Top_10_director_on_Netflix.png" width="300px">
 <p float="left">
-    <img src="images/Ethan/Top_10_cast_on_Amazon Prime.png" width="600px">
-    <img src="images/Ethan/Top_10_cast_on_Disney+.png" width="600px">
-    <img src="images/Ethan/Top_10_cast_on_Netflix.png" width="600px">
+    <img src="images/Ethan/Top_10_cast_on_Amazon Prime.png" width="300px">
+    <img src="images/Ethan/Top_10_cast_on_Disney+.png" width="300px">
+    <img src="images/Ethan/Top_10_cast_on_Netflix.png" width="300px">
 </p>
 
 ## **Conclusion**
