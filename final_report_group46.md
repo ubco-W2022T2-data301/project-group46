@@ -59,21 +59,8 @@ From the bar chart below, we can see that the most shows on all platforms are ra
 I am interested in what genre each platform uploads the most, like what each genre is the most dominant on each platform and within each platform what's the distribution like.
 Also I am interested in what genre each director have participated in and which genre each director participated the most. The other point I want to dig into is what genre the actor participated the most.
 
+
 ### **Question 1:**
-
-#### *What genre each platform uploads the most*
-
-Based on the images below, drama is a popular genre across all platforms except for Disney+, where family and animation are the most popular. The least popular genres differ across platforms, with travel being the least popular on Disney+, talkshow on Amazon Prime, and sketch comedy on Hulu.
-
-<p float="left">
-    <img src="images/Ethan/Hulu_genre_distribution.png" width="450px">
-    <img src="images/Ethan/Amazon_Prime_genre_distribution.png" width="450px">
-<p float="left">
-    <img src="images/Ethan/Netflix_genre_distribution.png" width="450px">
-    <img src="images/Ethan/Disney+_genre_distribution.png" width="450px">
-</p>
-
-### **Question 2 & 3:**
 
 #### *What genre each director have participated in and which genre each director participated the most & what genre the actor participated the most*
 
@@ -91,7 +78,7 @@ Regarding the directors and actors who have participated in various genres, it a
 
 ## **Conclusion**
 
-[The complete analysis and visualizations can be found here](./analysis/analysis_ethan.ipynb).
+For question 1, [The complete analysis and visualizations can be found here](./analysis/analysis_ethan.ipynb).
 In this project, I analyzed various genres across different streaming platforms, as well as the directors and actors who participated in those genres.
 
 My findings show that drama is a popular genre across all platforms except for Disney+, where family and animation are the most popular. Additionally, the least popular genres differ across platforms. I also found that each director and actor has their preferred genre, which could explain why they are more likely to appear in shows of specific genres. Interestingly, few directors or actors have participated in more than 20 shows, except on Amazon Prime.
