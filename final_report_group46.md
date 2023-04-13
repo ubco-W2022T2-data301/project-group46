@@ -98,7 +98,7 @@ Generally, if we ignore feature count by genre, and just analyze the trends of e
 ### Figure 3: Facet Plot of Count of Feature by Genre, compared to release date.
 Figure 2 is showing the difference between a popular genre like G rated movies, vs a less prominent genre like PG. The top graph is more fluid, and less impacted by outlying years compared to the varying number of PG features we see in the bottom plot. Less features results in an increase in volatility. Figure 3 follows this as well, less data means more uncertainty in trends.
 
-Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded.
+I was able to analyze the trend of features by year, and look into various hypotheses for why streaming services favor newer content. As the population increases, the number of features does too. Most likely because younger audiences prefer newer, more modern content. Every genre we analyzed followed the same pattern of increasing exponentially, while TV shows specifically fell off in the first half of 2021, indicating that more TV shows get released in the fall. A quick google search aligned with this theory. 
 
 
 ## **Conclusion**
@@ -109,3 +109,9 @@ In this project, I analyzed various genres across different streaming platforms,
 My findings show that drama is a popular genre across all platforms except for Disney+, where family and animation are the most popular. Additionally, the least popular genres differ across platforms. I also found that each director and actor has their preferred genre, which could explain why they are more likely to appear in shows of specific genres. Interestingly, few directors or actors have participated in more than 20 shows, except on Amazon Prime.
 
 Overall, this project provides insight into the dominant genres on various streaming platforms, as well as the preferences of directors and actors when it comes to genres. These findings could be useful for me and others interested in producing content for these platforms or for individuals interested in exploring specific genres.
+
+Alex:
+
+[Here](./analysis/analysis_alex.ipynb) is a link to the rest of my python code. This has some extra visualiztions, along with the opther questions and their respective graphics.
+
+Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded. This project allowed me to approach data analysis in my own way. I was able to test various visuals and coding strategies on my own, compared to the forced nature of the labs. 
