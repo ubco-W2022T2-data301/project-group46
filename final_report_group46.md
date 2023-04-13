@@ -75,7 +75,7 @@ Based on the images below, drama is a popular genre across all platforms except 
 
 ### **Question 2 & 3:**
 
-### *What genre each director have participated in and which genre each director participated the most & what genre the actor participated the most*
+#### *What genre each director have participated in and which genre each director participated the most & what genre the actor participated the most*
 
 Regarding the directors and actors who have participated in various genres, it appears that each director and actor has their preferred genre. This preference could be why they are more likely to show up in shows of specific genres. It is also interesting to note that there are few directors or actors who have participated in more than 20 shows, except on Amazon Prime. For instance, Mark Knight directed 109 shows in the "special interest" genre, which is the highest number for any director in a single genre across all platforms. Similarly, Gene Autry participated in 31 shows in the "western" genre, which is the highest number for any actor in a single genre across all platforms.
 
