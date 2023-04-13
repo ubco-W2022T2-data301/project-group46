@@ -46,8 +46,6 @@ The dataset provides a snapshot of available content on each platform up to mid-
 
 <img src ="images/dashboard_Anitej.png" width="900px">
 
-Ethan's Dashboard
-
 <img src ="images/dashboard_Ethan.png" width="900px">
 
 ## References
