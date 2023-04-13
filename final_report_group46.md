@@ -59,7 +59,6 @@ From the bar chart below, we can see that the most shows on all platforms are ra
 I am interested in what genre each platform uploads the most, like what each genre is the most dominant on each platform and within each platform what's the distribution like.
 Also I am interested in what genre each director have participated in and which genre each director participated the most. The other point I want to dig into is what genre the actor participated the most.
 
-
 ### **Question 1 (Ethan):**
 
 #### *What genre each director have participated in and which genre each director participated the most & what genre the actor participated the most*
@@ -89,19 +88,21 @@ Next I wanted to analyze this further, by genre. My goal was to check for any tr
 
 Generally, if we ignore feature count by genre, and just analyze the trends of each genre, we can see there aren't many outliers. No specific genre has a noticeable change between 1920 and 2000. Most trend upward exponentially from around 2000 onward. The last thing I noticed was that the TV prefix tended to follow the same pattern. Minus TV-Y7, every TV genre trended downward in 2021, the end of our dataset. A quick google search fills in why. “Historically, the fall television schedule was created to help auto advertisers promote their new car models.” Which makes sense, given that our dataset was last updated at the end of September 2021. The dataset has not been updated with fall shows, leaving the plunge shown in figure 3.
 
-
 ![](./images/Alex/Facet_Demo.JPG)
+
 ### Figure 2: Comparison of a High Feature Count vs a Low Feature Count Genre vs Time
 
-
 ![](./images/Alex/Facet_Plot.JPG)
+
 ### Figure 3: Facet Plot of Count of Feature by Genre, compared to release date.
+
 Figure 2 is showing the difference between a popular genre like G rated movies, vs a less prominent genre like PG. The top graph is more fluid, and less impacted by outlying years compared to the varying number of PG features we see in the bottom plot. Less features results in an increase in volatility. Figure 3 follows this as well, less data means more uncertainty in trends.
 
-I was able to analyze the trend of features by year, and look into various hypotheses for why streaming services favor newer content. As the population increases, the number of features does too. Most likely because younger audiences prefer newer, more modern content. Every genre we analyzed followed the same pattern of increasing exponentially, while TV shows specifically fell off in the first half of 2021, indicating that more TV shows get released in the fall. A quick google search aligned with this theory. 
-
+I was able to analyze the trend of features by year, and look into various hypotheses for why streaming services favor newer content. As the population increases, the number of features does too. Most likely because younger audiences prefer newer, more modern content. Every genre we analyzed followed the same pattern of increasing exponentially, while TV shows specifically fell off in the first half of 2021, indicating that more TV shows get released in the fall. A quick google search aligned with this theory.
 
 ## **Conclusion**
+
+Ethan:
 
 For question 1, [The complete analysis and visualizations can be found here](./analysis/analysis_ethan.ipynb).
 In this project, I analyzed various genres across different streaming platforms, as well as the directors and actors who participated in those genres.
@@ -114,4 +115,4 @@ Alex:
 
 [Here](./analysis/analysis_alex.ipynb) is a link to the rest of my python code. This has some extra visualiztions, along with the opther questions and their respective graphics.
 
-Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded. This project allowed me to approach data analysis in my own way. I was able to test various visuals and coding strategies on my own, compared to the forced nature of the labs. 
+Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded. This project allowed me to approach data analysis in my own way. I was able to test various visuals and coding strategies on my own, compared to the forced nature of the labs.
