@@ -89,6 +89,29 @@ Regarding the directors and actors who have participated in various genres, it a
     <img src="images/Ethan/Top_10_cast_on_Netflix.png" width="300px">
 </p>
 
+### **Question 2 (Alex): What is the feature distribution by year, and are there any trends for specific genres over the years. 
+
+So I started by creating a basic line graph to observe the general trend of how many features were released per year that made it onto a streaming service. My first observation was that the streaming services tended to favor newer content, either by popularity or exclusives (such as Netflix shows like Stranger Things). It makes sense that as the population has gone up since our oldest feature was released, that the number of features has increased exponentially, along with the population. The comparison of population and number of features vs time follow a very similar pattern.  More people watch newer content, so these streaming services tend to favor newer content then classic movies and TV shows. This is very reflective in the following plot.
+
+![alt text](images\Alex\Full_Dist.JPG)
+### Figure 1: Number of Total Features by Count by Release Year.
+
+Next I wanted to analyze this further, by genre. My goal was to check for any trends regarding genre across this 100 year time period.  Though the number of features per genre can vary greatly, we can still compare relative trends between similar genres. PG-13 movies and TV-14 TV shows compare at 3162 features and 3111 features respectively. Though they share a similar number of features, PG-13 follows a much cleaner trend compared to TV-14. The amount of PG 13  trends upward much sooner than TV-14. 
+
+Generally, if we ignore feature count by genre, and just analyze the trends of each genre, we can see there aren't many outliers. No specific genre has a noticeable change between 1920 and 2000. Most trend upward exponentially from around 2000 onward. The last thing I noticed was that the TV prefix tended to follow the same pattern. Minus TV-Y7, every TV genre trended downward in 2021, the end of our dataset. A quick google search fills in why. “Historically, the fall television schedule was created to help auto advertisers promote their new car models.” Which makes sense, given that our dataset was last updated at the end of September 2021. The dataset has not been updated with fall shows, leaving the plunge shown in figure 3. 
+
+
+![alt text](images\Alex\Facet_Demo.JPG)
+### Figure 2: Comparison of a High Feature Count vs a Low Feature Count Genre vs Time
+
+
+![alt text](images\Alex\Facet_Plot.JPG)
+### Figure 3: Facet Plot of Count of Feature by Genre, compared to release date.
+Figure 2 is showing the difference between a popular genre like G rated movies, vs a less prominent genre like PG. The top graph is more fluid, and less impacted by outlying years compared to the varying number of PG features we see in the bottom plot. Less features results in an increase in volatility. Figure 3 follows this as well, less data means more uncertainty in trends.
+
+Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded. 
+
+
 ## **Conclusion**
 
 [The complete analysis and visualizations can be found here](./analysis/analysis_ethan.ipynb).
