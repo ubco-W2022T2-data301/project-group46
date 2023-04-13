@@ -101,7 +101,7 @@ Figure 2 is showing the difference between a popular genre like G rated movies, 
 Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded.
 
 
-##**Conclusion**
+## **Conclusion**
 
 For question 1, [The complete analysis and visualizations can be found here](./analysis/analysis_ethan.ipynb).
 In this project, I analyzed various genres across different streaming platforms, as well as the directors and actors who participated in those genres.
@@ -109,4 +109,3 @@ In this project, I analyzed various genres across different streaming platforms,
 My findings show that drama is a popular genre across all platforms except for Disney+, where family and animation are the most popular. Additionally, the least popular genres differ across platforms. I also found that each director and actor has their preferred genre, which could explain why they are more likely to appear in shows of specific genres. Interestingly, few directors or actors have participated in more than 20 shows, except on Amazon Prime.
 
 Overall, this project provides insight into the dominant genres on various streaming platforms, as well as the preferences of directors and actors when it comes to genres. These findings could be useful for me and others interested in producing content for these platforms or for individuals interested in exploring specific genres.
-
