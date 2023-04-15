@@ -111,27 +111,65 @@ I was able to analyze the trend of features by year, and look into various hypot
 ### **Question 3 (Anitej): What is correlation between Directors/Casts and Genres?**
 My Reserch Questions revolved around Directors and Casts and tying them together with the other componenets of the datasets. On a broader perspective, I was trying to look into how the presence of certain directors and actors on each streaming platform impact user engagement and satisfaction, what the most common director and actor pairings are across platforms, and how these pairings vary by genre. Additionally, I tied these aspects to other compnenets of the datasets such as duration and type. Specifically, my research questions are:
 
-1. What is the distribution of Movies and TV Shows for each of the Streaming Platforms?
+- What is the distribution of Movies and TV Shows for each of the Streaming Platforms?
 <p float="left">
-    <img src="images/Anitej/netflix_mtv_dist.png" width="450px" height="450px">
-    <img src="images/Anitej/amazon_mtv_dist.png" width="450px" height="450px">
-    <img src="images/Anitej/disney_mtv_dist.png" width="450px" height="450px">
-    <img src="images/Anitej/hulu_mtv_dist.png" width="450px" height="450px">
+    <img src="images/Anitej/netflix_mtv_dist.png" width="500px" height="500px">
+    <img src="images/Anitej/amazon_mtv_dist.png" width="500px" height="500px">
+    <img src="images/Anitej/disney_mtv_dist.png" width="450px" height="500px">
+    <img src="images/Anitej/hulu_mtv_dist.png" width="500px" height="500px">
 </p>
 
-1. Which director(s) appears to be directing the most number of the movies within the four platforms? Who's it for the TV shows?
+- Which director(s) appears to be directing the most number of the movies/TV shows within the four platforms?
+<p float="left">
+    <img src="images/Anitej/netflix_4plat.png" width="500px" height="500px">
+    <img src="images/Anitej/amazon_4plat.png" width="500px" height="500px">
+    <img src="images/Anitej/disney_4plat.png" width="450px" height="500px">
+    <img src="images/Anitej/hulu_4plat.png" width="500px" height="500px">
+</p>
+
+- Which directors have directed movies and TV shows that are available on all the four streaming platforms? Which directors appear only on one of the streaming platforms?
+<p float="left">
+    <img src="images/Anitej/netflix_only_dapp.png" width="500px" height="500px">
+    <img src="images/Anitej/amazon_only_dapp.png" width="500px" height="500px">
+    <img src="images/Anitej/disney_only_dapp.png" width="450px" height="500px">
+    <img src="images/Anitej/hulu_only_dapp.png" width="500px" height="500px">
+</p>
+
+Unfortunately, there are no directors that appear on all four of the platforms.
+
+- Are there any TV shows and movies across all the platforms which have the same cast as other TV show(s) or movie(s)?
+<p float="left">
+    <img src="images/Anitej/netflix_overlap_cast.png" width="500px" height="500px">
+    <img src="images/Anitej/amazon_overlap_cast.png" width="500px" height="500px">
+    <img src="images/Anitej/disney_overlap_cast.png" width="450px" height="500px">
+    <img src="images/Anitej/hulu_overlap_cast.png" width="500px" height="500px">
+    <img src="images/Anitej/overall_overlap_cast.png" width="1000px" height="1000px">
+</p>
+
+- For each director, what are the different genres they have directed movies and TV shows of? For each cast member, what are the different genres they have appeared in?
+
+For these questions, the results are in tabular form but I do have general statistics for reference:
 
 
-1. Which directors have directed movies and TV shows that are available on all the four streaming platforms? Which directors appear only on one of the streaming platforms?
+**Netflix**
+Number of Directors: 8235
+Number of Casts: 44367
+Number of Genres: 42
 
-1. Are there any TV shows and movies across all the platforms which have the same cast as other TV show(s) or movie(s)?
+**Amazon Prime**
+Number of Directors: 8235
+Number of Casts: 44367
+Number of Genres: 31
 
-1. For each director, what are the different genres they have directed movies and TV shows of?
+**Disney Plus**
+Number of Directors: 1121
+Number of Casts: 5899
+Number of Genres: 44
 
-1. For each cast member, what are the different genres they have appeared in?
-
-
-
+**Hulu**
+Number of Directors: 3
+Number of Casts: 0
+Number of Genres: 36
 
 ## **Conclusion**
 
@@ -149,3 +187,15 @@ Alex:
 [Here](./analysis/analysis_alex.ipynb) is a link to the rest of my python code. This has some extra visualiztions, along with the opther questions and their respective graphics.
 
 Overall, streaming services favor newer features versus older ones, while TV shows tend to be released later in the fall, compared to movies. There aren't any noticeable trends for specific genres over the years this dataset was recorded. This project allowed me to approach data analysis in my own way. I was able to test various visuals and coding strategies on my own, compared to the forced nature of the labs.
+
+
+Anitej:
+In conclusion, I was able to find the correlation between Directors/Casts and other components of the datasets, specifically genres and number of appearances. [Here](analysis/analysis_anitej.ipynb) is a link to the complete analysis of the datasets regarding this topic, done by me. Overall, We find that:
+- Netflix, Amazon Prime, and Disney Plus are streaming services to go to when looking for movies and Hulu is the one for TV shows.
+- Except for Hulu, there are at least 4 directors in each dataset who've directed more than 10 movies in that dataset.
+- Bear Grylls is the only cast that appears on all of the datasets.
+- The most number of times a cast has appeared in a dataset is above 50, on Amazon Prime.
+- The most number of Genres present in a streaming platform is 44, on Disney Plus.
+- The most number of Directors present on a platform is 8235, on Amazon Prime.
+- The most number of Casts present on a platform is 64126, on Netflix.
+This detailed analysis of the datasets in relation to the directors and Casts allowed me to successfully answer my research questions and come to a conclusion.
