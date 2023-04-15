@@ -139,10 +139,14 @@ Unfortunately, there are no directors that appear on all four of the platforms.
 
 - Are there any TV shows and movies across all the platforms which have the same cast as other TV show(s) or movie(s)?
 <p float="left">
-    <img src="images/Anitej/netflix_overlap_cast.png" width="500px" height="500px">
-    <img src="images/Anitej/amazon_overlap_cast.png" width="500px" height="500px">
-    <img src="images/Anitej/disney_overlap_cast.png" width="500px" height="500px">
-    <img src="images/Anitej/hulu_overlap_cast.png" width="500px" height="500px">
+    <img src="images/Anitej/netflix_overlap_cast.png" width="300px" height="300px">
+    <img src="images/Anitej/amazon_overlap_cast.png" width="300px" height="300px">
+    <img src="images/Anitej/disney_overlap_cast.png" width="300px" height="300px">
+</p>
+
+Unfortunately, there are casts mentioned in the Hulu dataset, which is why there exists no plot for the casts of the Hulu Dataset.
+
+<p float="left">
     <img src="images/Anitej/overall_overlap_cast.png" width="1000px" height="1000px">
 </p>
 
@@ -151,24 +155,38 @@ Unfortunately, there are no directors that appear on all four of the platforms.
 For these questions, the results are in tabular form but I do have general statistics for reference:
 
 
-**Netflix:**
-Number of Directors: 8235, 
-Number of Casts: 44367, 
+**Netflix**
+
+Number of Directors: 8235
+
+Number of Casts: 44367
+
 Number of Genres: 42
 
-**Amazon Prime:**
-Number of Directors: 8235, 
-Number of Casts: 44367, 
+
+**Amazon Prime**
+
+Number of Directors: 8235
+
+Number of Casts: 44367
+
 Number of Genres: 31
 
-**Disney Plus:**
-Number of Directors: 1121, 
-Number of Casts: 5899, 
+
+**Disney Plus**
+
+Number of Directors: 1121
+
+Number of Casts: 5899
+
 Number of Genres: 44
 
-**Hulu:**
-Number of Directors: 3, 
-Number of Casts: 0, 
+
+**Hulu**
+Number of Directors: 3
+
+Number of Casts: 0
+
 Number of Genres: 36
 
 ## **Conclusion**
@@ -190,6 +208,7 @@ Overall, streaming services favor newer features versus older ones, while TV sho
 
 
 Anitej:
+
 In conclusion, I was able to find the correlation between Directors/Casts and other components of the datasets, specifically genres and number of appearances. [Here](analysis/analysis_anitej.ipynb) is a link to the complete analysis of the datasets regarding this topic, done by me. Overall, We find that:
 - Netflix, Amazon Prime, and Disney Plus are streaming services to go to when looking for movies and Hulu is the one for TV shows.
 - Except for Hulu, there are at least 4 directors in each dataset who've directed more than 10 movies in that dataset.
