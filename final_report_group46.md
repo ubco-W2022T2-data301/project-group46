@@ -61,6 +61,7 @@ From the plots below, we can see which directors have directed the most number o
     <img src="images/Anitej/disney_4plat.png" width="450px" height="450px">
     <img src="images/Anitej/hulu_4plat.png" width="450px" height="450px">
 </p>
+
 ## Research Questions
 
 I am interested in what genre each platform uploads the most, like what each genre is the most dominant on each platform and within each platform what's the distribution like.
@@ -106,6 +107,31 @@ Generally, if we ignore feature count by genre, and just analyze the trends of e
 Figure 2 is showing the difference between a popular genre like G rated movies, vs a less prominent genre like PG. The top graph is more fluid, and less impacted by outlying years compared to the varying number of PG features we see in the bottom plot. Less features results in an increase in volatility. Figure 3 follows this as well, less data means more uncertainty in trends.
 
 I was able to analyze the trend of features by year, and look into various hypotheses for why streaming services favor newer content. As the population increases, the number of features does too. Most likely because younger audiences prefer newer, more modern content. Every genre we analyzed followed the same pattern of increasing exponentially, while TV shows specifically fell off in the first half of 2021, indicating that more TV shows get released in the fall. A quick google search aligned with this theory.
+
+### **Question 3 (Anitej): What is correlation between Directors/Casts and Genres?**
+My Reserch Questions revolved around Directors and Casts and tying them together with the other componenets of the datasets. On a broader perspective, I was trying to look into how the presence of certain directors and actors on each streaming platform impact user engagement and satisfaction, what the most common director and actor pairings are across platforms, and how these pairings vary by genre. Additionally, I tied these aspects to other compnenets of the datasets such as duration and type. Specifically, my research questions are:
+
+1. What is the distribution of Movies and TV Shows for each of the Streaming Platforms?
+<p float="left">
+    <img src="images/Anitej/netflix_mtv_dist.png" width="450px" height="450px">
+    <img src="images/Anitej/amazon_mtv_dist.png" width="450px" height="450px">
+    <img src="images/Anitej/disney_mtv_dist.png" width="450px" height="450px">
+    <img src="images/Anitej/hulu_mtv_dist.png" width="450px" height="450px">
+</p>
+
+1. Which director(s) appears to be directing the most number of the movies within the four platforms? Who's it for the TV shows?
+
+
+1. Which directors have directed movies and TV shows that are available on all the four streaming platforms? Which directors appear only on one of the streaming platforms?
+
+1. Are there any TV shows and movies across all the platforms which have the same cast as other TV show(s) or movie(s)?
+
+1. For each director, what are the different genres they have directed movies and TV shows of?
+
+1. For each cast member, what are the different genres they have appeared in?
+
+
+
 
 ## **Conclusion**
 
