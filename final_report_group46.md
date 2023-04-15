@@ -139,9 +139,9 @@ Unfortunately, there are no directors that appear on all four of the platforms.
 
 - Are there any TV shows and movies across all the platforms which have the same cast as other TV show(s) or movie(s)?
 <p float="left">
-    <img src="images/Anitej/netflix_overlap_cast.png" width="300px" height="300px">
-    <img src="images/Anitej/amazon_overlap_cast.png" width="300px" height="300px">
-    <img src="images/Anitej/disney_overlap_cast.png" width="300px" height="300px">
+    <img src="images/Anitej/netflix_overlap_cast.png" width="320px" height="320px">
+    <img src="images/Anitej/amazon_overlap_cast.png" width="320px" height="320px">
+    <img src="images/Anitej/disney_overlap_cast.png" width="320px" height="320px">
 </p>
 
 Unfortunately, there are casts mentioned in the Hulu dataset, which is why there exists no plot for the casts of the Hulu Dataset.
@@ -183,6 +183,7 @@ Number of Genres: 44
 
 
 **Hulu**
+
 Number of Directors: 3
 
 Number of Casts: 0
