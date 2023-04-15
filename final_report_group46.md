@@ -56,10 +56,10 @@ From the bar chart below, we can see that the most shows on all platforms are ra
 
 From the plots below, we can see which directors have directed the most number of movies within each of the platforms. The Hulu dataset only mentions three directors throughout the entire dataset and they all appear exactly once, which is why the results look similar for all three of them.
 <p float="left">
-    <img src="images/Anitej/netflix_4plat.png" width="450px">
-    <img src="images/Anitej/amazon_4plat.png" width="450px">
-    <img src="images/Anitej/disney_4plat.png" width="450px">
-    <img src="images/Anitej/hulu_4plat.png" width="450px">
+    <img src="images/Anitej/netflix_4plat.png" width="450px" height="450px">
+    <img src="images/Anitej/amazon_4plat.png" width="450px" height="450px">
+    <img src="images/Anitej/disney_4plat.png" width="450px" height="450px">
+    <img src="images/Anitej/hulu_4plat.png" width="450px" height="450px">
 </p>
 ## Research Questions
 
@@ -73,14 +73,14 @@ Also I am interested in what genre each director have participated in and which 
 Regarding the directors and actors who have participated in various genres, it appears that each director and actor has their preferred genre. This preference could be why they are more likely to show up in shows of specific genres. It is also interesting to note that there are few directors or actors who have participated in more than 20 shows, except on Amazon Prime. For instance, Mark Knight directed 109 shows in the "special interest" genre, which is the highest number for any director in a single genre across all platforms. Similarly, Gene Autry participated in 31 shows in the "western" genre, which is the highest number for any actor in a single genre across all platforms.
 
 <p float="left">
-    <img src="images/Ethan/Top_10_director_on_Amazon Prime.png" width="450px" height="450px">
-    <img src="images/Ethan/Top_10_director_on_Disney+.png" width="450px" height="450px">
+    <img src="images/Ethan/Top_10_director_on_Amazon Prime.png" width="450px">
+    <img src="images/Ethan/Top_10_director_on_Disney+.png" width="450px">
 <p float="left">
-    <img src="images/Ethan/Top_10_director_on_Netflix.png" width="450px" height="450px">
-    <img src="images/Ethan/Top_10_cast_on_Amazon Prime.png" width="450px" height="450px">
+    <img src="images/Ethan/Top_10_director_on_Netflix.png" width="450px">
+    <img src="images/Ethan/Top_10_cast_on_Amazon Prime.png" width="450px">
 <p float="left">
-    <img src="images/Ethan/Top_10_cast_on_Disney+.png" width="450px" height="450px">
-    <img src="images/Ethan/Top_10_cast_on_Netflix.png" width="450px" height="450px">
+    <img src="images/Ethan/Top_10_cast_on_Disney+.png" width="450px">
+    <img src="images/Ethan/Top_10_cast_on_Netflix.png" width="450px">
 </p>
 
 ### **Question 2 (Alex): What is the feature distribution by year, and are there any trends for specific genres over the years.
