@@ -54,6 +54,13 @@ From the bar chart below, we can see that the most shows on all platforms are ra
     <img src="images/Ethan/Disney+_content_distribution_by_rating.png" width="450px">
 </p>
 
+From the plots below, we can see which directors have directed the most number of movies within each of the platforms. The Hulu dataset only mentions three directors throughout the entire dataset and they all appear exactly once, which is why the results look similar for all three of them.
+<p float="left">
+    <img src="images/Anitej/netflix_4plat.png" width="450px">
+    <img src="images/Anitej/amazon_4plat.png" width="450px">
+    <img src="images/Anitej/disney_4plat.png" width="450px">
+    <img src="images/Anitej/hulu_4plat.png" width="450px">
+</p>
 ## Research Questions
 
 I am interested in what genre each platform uploads the most, like what each genre is the most dominant on each platform and within each platform what's the distribution like.
