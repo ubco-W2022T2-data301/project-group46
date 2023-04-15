@@ -115,7 +115,7 @@ My Reserch Questions revolved around Directors and Casts and tying them together
 <p float="left">
     <img src="images/Anitej/netflix_mtv_dist.png" width="500px" height="500px">
     <img src="images/Anitej/amazon_mtv_dist.png" width="500px" height="500px">
-    <img src="images/Anitej/disney_mtv_dist.png" width="450px" height="500px">
+    <img src="images/Anitej/disney_mtv_dist.png" width="500px" height="500px">
     <img src="images/Anitej/hulu_mtv_dist.png" width="500px" height="500px">
 </p>
 
@@ -123,7 +123,7 @@ My Reserch Questions revolved around Directors and Casts and tying them together
 <p float="left">
     <img src="images/Anitej/netflix_4plat.png" width="500px" height="500px">
     <img src="images/Anitej/amazon_4plat.png" width="500px" height="500px">
-    <img src="images/Anitej/disney_4plat.png" width="450px" height="500px">
+    <img src="images/Anitej/disney_4plat.png" width="500px" height="500px">
     <img src="images/Anitej/hulu_4plat.png" width="500px" height="500px">
 </p>
 
@@ -131,7 +131,7 @@ My Reserch Questions revolved around Directors and Casts and tying them together
 <p float="left">
     <img src="images/Anitej/netflix_only_dapp.png" width="500px" height="500px">
     <img src="images/Anitej/amazon_only_dapp.png" width="500px" height="500px">
-    <img src="images/Anitej/disney_only_dapp.png" width="450px" height="500px">
+    <img src="images/Anitej/disney_only_dapp.png" width="500px" height="500px">
     <img src="images/Anitej/hulu_only_dapp.png" width="500px" height="500px">
 </p>
 
@@ -141,7 +141,7 @@ Unfortunately, there are no directors that appear on all four of the platforms.
 <p float="left">
     <img src="images/Anitej/netflix_overlap_cast.png" width="500px" height="500px">
     <img src="images/Anitej/amazon_overlap_cast.png" width="500px" height="500px">
-    <img src="images/Anitej/disney_overlap_cast.png" width="450px" height="500px">
+    <img src="images/Anitej/disney_overlap_cast.png" width="500px" height="500px">
     <img src="images/Anitej/hulu_overlap_cast.png" width="500px" height="500px">
     <img src="images/Anitej/overall_overlap_cast.png" width="1000px" height="1000px">
 </p>
@@ -151,24 +151,24 @@ Unfortunately, there are no directors that appear on all four of the platforms.
 For these questions, the results are in tabular form but I do have general statistics for reference:
 
 
-**Netflix**
-Number of Directors: 8235
-Number of Casts: 44367
+**Netflix:**
+Number of Directors: 8235, 
+Number of Casts: 44367, 
 Number of Genres: 42
 
-**Amazon Prime**
-Number of Directors: 8235
-Number of Casts: 44367
+**Amazon Prime:**
+Number of Directors: 8235, 
+Number of Casts: 44367, 
 Number of Genres: 31
 
-**Disney Plus**
-Number of Directors: 1121
-Number of Casts: 5899
+**Disney Plus:**
+Number of Directors: 1121, 
+Number of Casts: 5899, 
 Number of Genres: 44
 
-**Hulu**
-Number of Directors: 3
-Number of Casts: 0
+**Hulu:**
+Number of Directors: 3, 
+Number of Casts: 0, 
 Number of Genres: 36
 
 ## **Conclusion**
